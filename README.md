@@ -6,4 +6,4 @@ This is the README. I can make text **bold**.
 
     This is preformated text.
 
-![](./cat.gif)
+![Dope cat](./cat.gif)
